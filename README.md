@@ -1,8 +1,8 @@
 ### AngelHV256   
-<div align="right">
-<img src="https://giffiles.alphacoders.com/481/48109.gif" align="right" style="width: 100%" />
+<div align="center">
+<img src="https://giffiles.alphacoders.com/481/48109.gif" align="center" style="width: 100%" />
 </div>  
-  
+<br>
 
 
 
