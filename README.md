@@ -56,12 +56,13 @@
 <br/>
 
 ## Github Stats
-<center>
 <div>
+<center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelVelasco256&show_icons=true&theme=radical)
-</div>
+
 </center>
+</div>
 </br>
 
 ## Connect with me
