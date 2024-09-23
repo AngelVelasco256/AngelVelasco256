@@ -8,7 +8,11 @@
 ### <ins><div align="center">I'm Angel, a full-time frontend freelance developer 👨‍💻 working remotely since 2023 🚀</div></ins>
 
 ### Metrics
+<div align="center">
+
 ![Metrics](/github-metrics.svg)
+</div>
+<br>
 
 ## My Skill Set
 <center>
