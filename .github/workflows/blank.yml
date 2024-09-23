@@ -10,6 +10,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: AngelVelasco256/AngelVelasco256@latest
+      - uses: AngelVelasco256/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
