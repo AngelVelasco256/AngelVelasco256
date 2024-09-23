@@ -7,6 +7,9 @@
 ### Frontend Developer
 ### <ins><div align="center">I'm Angel, a full-time frontend freelance developer 👨‍💻 working remotely since 2023 🚀</div></ins>
 
+### Metrics
+![Metrics](/github-metrics.svg)
+
 ## My Skill Set
 <center>
 <table align="center"><tr><td valign="top" width="33%">
